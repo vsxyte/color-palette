@@ -1,26 +1,26 @@
-# color-palette
+#color-palette
 
 <h1 style="color: #2ecc71">made by ex celestial dev, souls.</h1>
-<h1>процесс проектирования и разработки</h1>
-этот проект начался с простой идеи создания интерфейса выбора цвета. Первоначально задумывался создать на C++ с imgui, это реализация идеи пришла к нулю
+<h1>design and development process</h1>
+this project started with a simple idea to create a color selection interface. Initially I planned to create it in C++ with imgui, but the implementation of this idea came to naught
 
-<h1>уникальные подходы</h1>
-использовались языки такие HTML, JavaScript и CSS
-проект использует API-интерфейс localStorage браузера для постоянного хранения сохраненных цветовых палитр, предоставляя пользователям удобный доступ к любимым цветовым комбинациям между сеансами.
-динамическое отображение палитры: палитры динамически генерируются и отображаются в режиме реального времени, предлагая пользователям немедленную визуальную обратную связь по выбору цвета.
+<h1>unique approaches</h1>
+languages ​: HTML, JavaScript and CSS were used
+the project uses the browser's localStorage API to persistently store saved color palettes, giving users easy access to their favorite color combinations between sessions.
+Dynamic Palette Display: Palettes are dynamically generated and displayed in real time, offering users immediate visual feedback on color selection.
 
 
-<h1>компромиссы и известные проблемы:</h1>
-проект конечно достигает своей основной цели — облегчить выбор цвета, но существуют определенные компромиссы и известные проблемы, о которых следует знать:
+<h1>trade-offs and known issues:</h1>
+The design certainly achieves its main goal of making color selection easier, but there are certain trade-offs and known problems that you should be aware of:
 
-<h1>качество кода.</h1> Кодовая база может не соответствовать лучшим характеристикам.
-ограниченная функциональность. проекту, как простому инструменту выбора цвета, не хватает расширенных функций, имеющихся в специальных приложениях, таких как расширенные возможности манипулирования цветом или параметры экспорта.
+<h1>code quality.</h1> The codebase may not be of the best specifications.
+limited functionality. Project, as a simple color picker, lacks the advanced features found in dedicated apps, such as advanced color manipulation or export options.
 
-<h1>Аспекты пользовательского интерфейса/UX.</h1> 
-хотя пользовательский интерфейс функционален, ему не хватает полировки и изысканности, что потенциально может привести к менее интуитивно понятному пользовательскому интерфейсу.
+<h1>User interface/UX aspects.</h1>
+While the user interface is functional, it lacks polish and sophistication, potentially resulting in a less intuitive user experience.
 
-<h1>открытие файла; запуск кода.</h1>
-скачайте сурс кода на html, и откройте в любом известном браузере такие как chrome, brave и так далее.
+<h1>open file; running the code.</h1>
+download the source code for html, and open it in any browser such as chrome, brave, and so on.
 
-что по второму файлу? (souls.html)
-это такой ознакомительный проект который я создал ещё давным давно, но думаю оно тоже не помешает.
+what about the second file? (souls.html)
+This is an introductory project that I created a long time ago, but I think it will be fun to check it out.
